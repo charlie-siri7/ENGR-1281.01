@@ -1,0 +1,9 @@
+
+Swim average: 903.33
+Bike average: 775783.19
+Run average: 1261265.00
+Average average: 595.50
+Fastest year for swimming: 2007 (5345.00 mph)
+Fastest year for biking: 2007 (4654654.00 mph)
+Fastest year for running: 2007 (7567567.00 mph)
+Fastest year for average speed: 2007 (3545.00 mph)
