@@ -1,0 +1,5 @@
+Min. change in voltage: -3.126 volts
+Max. change in voltage: 1.902 volts
+Time elapsed: 53.757 seconds
+Min strain: -0.000600
+Max strain: 0.000365

@@ -1,0 +1,7 @@
+Base: 12 mm, height: 37.300 mm, area: 223.800 mm
+Base: 19 mm, height: 108.225 mm, area: 1028.137 mm
+Base: 1 mm, height: 22.200 mm, area: 11.100 mm
+Base: 913 mm, height: 77.000 mm, area: 35150.500 mm
+Base: 813 mm, height: 38.390 mm, area: 15605.535 mm
+Average base length: 351.600 mm,  average height: 56.623 mm, average area: 10403.814 mm
+Number of triangles: 5
